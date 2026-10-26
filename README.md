@@ -2,7 +2,7 @@
 
 A Streamlit app that computes and plots the bilateral real exchange rate between any two IMF countries (or the Euro Area) using monthly IMF CPI and exchange-rate data from January 1976 where available.
 
-**Live app:** _add your streamlit.app link here_
+**Live app:** https://dsarro18-real-exchange-rate-app-app-qbnaei.streamlit.app/
 
 ## Economics
 
